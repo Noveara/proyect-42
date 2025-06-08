@@ -6,7 +6,7 @@
 /*   By: noa <noa@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/20 19:50:21 by mokhan            #+#    #+#             */
-/*   Updated: 2025/06/07 15:05:22 by noa              ###   ########.fr       */
+/*   Updated: 2025/06/08 11:59:37 by noa              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # include <stdio.h>
 # include <math.h>
 # include <limits.h>
+
 # include "libft/libft.h"
 # include "get_next_line/get_next_line.h"
 
